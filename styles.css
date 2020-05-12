@@ -12,7 +12,7 @@
 html, body{
     margin: 0;
     padding: 0;
-    background-image: url(/BANDSTORE/img/jellyfish-deepwater.jpg);
+    background-image: url(/Zellis-Store/BandStore/img/jellyfish-deepwater.jpg);
     background-color: rgba(8, 102, 16, 0.76);
     background-blend-mode: multiply;
     background-position: top;
@@ -53,7 +53,7 @@ html, body{
 }
 
 .main-header{
-    background-image: url("/BANDSTORE/img/jellyfish-4560261_1920.jpg");
+    background-image: url("/Zellis-Store/BandStore/img/jellyfish-4560261_1920.jpg");
     background-size: cover;
     background-position: bottom;
     background-color: rgba(8, 102, 16, 0.8);
@@ -104,7 +104,7 @@ html, body{
 }
 
 .main-footer{
-    background-image: url("/BANDSTORE/img/jellyfish-4560261_1920.jpg");
+    background-image: url("/Zellis-Store/BandStore/img/jellyfish-4560261_1920.jpg");
     background-color: rgba(8, 102, 16, 0.76);
     background-blend-mode: multiply;
     background-position: center;
